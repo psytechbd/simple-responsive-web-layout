@@ -1,0 +1,25 @@
+
+@media only screen and (max-width : 1200px) {
+
+}
+
+@media only screen and (max-width : 979px) {
+.add{min-height: 300px;}
+.headline{min-height: 50px;}
+.live{min-height: 50px;}
+.articlefet{min-height: 100px;}
+.add{min-height: 100px;}
+.articleside{min-height: 80px;}
+}
+
+@media only screen and (max-width : 767px) {
+
+}
+
+@media only screen and (max-width : 480px) {
+
+}
+
+@media only screen and (max-width : 320px) {
+
+}
