@@ -1,12 +1,12 @@
 body{text-align: center}
-.row{background-color:dodgerblue;margin: 10px 0px}
-.logo{background-color:lightskyblue;min-height: 40px;margin: 10px 0px;}
-.nav{background-color:lightskyblue;min-height: 40px;margin: 10px 0px;}
-.search{background-color:lightskyblue;min-height: 40px;margin: 10px 0px;}
-.headline{background-color:#DCEBF9;min-height: 100px;margin: 10px 0px;}
-.live{background-color:lightskyblue;min-height: 100px;margin: 10px 0px;}
-.add{background-color:#DCEBF9;min-height: 100px;margin: 10px 0px;}
-.articlefet{background-color:lightskyblue;min-height: 300px;margin: 10px 0px;}
-.articlelist{background-color:lightskyblue;min-height: 300px;margin: 10px 0px;}
-.articleside{background-color:#DCEBF9;min-height: 300px;margin: 10px 0px;}
-.footer{background-color:lightskyblue;min-height: 50px;margin: 10px 0px;}
+.row{background-color:dodgerblue;margin: 10px 0}
+.logo{background-color:lightskyblue;min-height: 40px;margin: 10px 0}
+.nav{background-color:lightskyblue;min-height: 40px;margin: 10px 0}
+.search{background-color:lightskyblue;min-height: 40px;margin: 10px 0}
+.headline{background-color:#DCEBF9;min-height: 100px;margin: 10px 0}
+.live{background-color:lightskyblue;min-height: 100px;margin: 10px 0}
+.add{background-color:#DCEBF9;min-height: 100px;margin: 10px 0}
+.articlefet{background-color:lightskyblue;min-height: 300px;margin: 10px 0}
+.articlelist{background-color:lightskyblue;min-height: 300px;margin: 10px 0}
+.articleside{background-color:#DCEBF9;min-height: 300px;margin: 10px 0}
+.footer{background-color:lightskyblue;min-height: 50px;margin: 10px 0}
